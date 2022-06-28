@@ -1,0 +1,4 @@
+How to download AOTTG Exp mod
+1.Head over to https://github.com/NelsonIVsec/AOTTG-EXP-MOD-4.45/releases/tag/Released
+2.Download the file and unzip it to your prefered location on your computer
+3.Go in to EXP MOD 4.45 folder and open EM.exe to play the game!
